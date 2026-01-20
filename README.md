@@ -2,6 +2,8 @@
 
 ---
 
+![Ev-car-image-preview](https://github.com/seskri2905/EV-Landing-Page/blob/94aefd8b86553491d78f63a9f8efe9832307a4de/src/assets/ev-car-image.jpg)
+
 ## Introduction ⭐
 
 • This is the Industry ready clone of landing page.
@@ -48,3 +50,11 @@ iii. Background
 ### Other Javascript concepts like ternery Operators etc.
 
 • Got the Practical Knolwedge of the Ternery Operator
+
+---
+
+## Project Demo
+
+![Ev-Gif](https://github.com/seskri2905/EV-Landing-Page/blob/94aefd8b86553491d78f63a9f8efe9832307a4de/src/assets/ev-car-preview.gif)
+
+## Project Live Link - [Ev-Website](https://ev-landing-page-seskri2905.netlify.app) 🔗
